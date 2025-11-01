@@ -31,14 +31,6 @@ The goal is to clean, analyze, and prepare the dataset for building energy forec
 
 ---
 
-## 📈 Next Steps
-- Perform exploratory data analysis (EDA)  
-- Build regression models (Linear Regression, Random Forest, XGBoost)  
-- Evaluate using RMSE, MAE, and R² metrics  
-- Visualize and interpret energy usage trends  
-
----
-
 ## 📚 Dataset Source
 [UCI Machine Learning Repository – Individual Household Electric Power Consumption](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)
 
@@ -47,3 +39,4 @@ The goal is to clean, analyze, and prepare the dataset for building energy forec
 ### 👩‍💻 Author
 **Jhanvi**  
 Internship Project — Week 1 (Data Cleaning)
+
