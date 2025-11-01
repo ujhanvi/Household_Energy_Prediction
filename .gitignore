@@ -1,0 +1,16 @@
+# Ignore unnecessary files
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+*.zip
+*.txt
+*.log
+.DS_Store
+
+# Environment files
+.env
+.venv/
+*.pyc
+
+# Jupyter autosave files
+*.nbconvert.ipynb
